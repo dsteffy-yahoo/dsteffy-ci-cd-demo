@@ -1,5 +1,5 @@
 {
-  "id": "myblog",
+  "id": "myblog-dst",
   "container": {
     "type": "DOCKER",
     "docker": {
