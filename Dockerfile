@@ -1,3 +1,3 @@
 FROM jekyll/jekyll
-ADD site /srv/jekyll-dst
+ADD site /srv/jekyll
 
